@@ -103,7 +103,7 @@ a {
 }
 /*header part start here*/
 header {
-  background: url(../images/back.png);
+  background: url(./images/back.png);
   height: 700px;
   background-size: cover;
   background-repeat: no-repeat;
